@@ -7,6 +7,9 @@ Credits to [/u/CSMastermind](https://www.reddit.com/user/CSMastermind) for creat
 More reading list resources:
 * [The Ultimate Reading List for Developers](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
+## TypeScript Reading List
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) — Un libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+
 ## Job Interview Prep
 * Cracking the Coding Interview: 189 Programming Questions and Solutions
 * Programming Interviews Exposed: Coding Your Way Through the Interview
