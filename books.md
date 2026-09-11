@@ -8,7 +8,7 @@ More reading list resources:
 * [The Ultimate Reading List for Developers](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
 ## TypeScript Reading List
-* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) — Un libro TypeScript gratuito e open source, dai fondamenti ai concetti avanzati.
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/) — A free and open-source TypeScript book, covering everything from fundamentals to advanced concepts.
 
 ## Job Interview Prep
 * Cracking the Coding Interview: 189 Programming Questions and Solutions
